@@ -3,4 +3,6 @@ This repository showcases Power BI projects and visualizations created as part o
 
 Dashboard 1 : Sales Analysis Report
 
+![SR](SalesReport.png)
+
 
